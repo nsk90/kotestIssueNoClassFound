@@ -11,6 +11,9 @@ class ExampleUnitTest : BehaviorSpec({
         When("when") {
             Then("then") {
                 // nothing
+
+                //I am using Android Studio Giraffe | 2022.3.1 Patch 1
+                // and Kotest IDE  plugin version 1.3.69-IC-2022.3
             }
         }
     }
